@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+<dc:title>Castello dei Conti Guidi</dc:title>
+<dc:creator xml:lang="en">Unknown</dc:creator>
+<dc:creator>Jacopo di Baldassarre Turriani</dc:creator>
+<dc:subject>castello dei conti Guidi</dc:subject>
+<dc:subject xsi:type="dcterms:UDC">721</dc:subject>
+<dc:subject xsi:type="dcterms:AAT" mp:ref="http://vocab.getty.edu/page/aat/300006891" xml:lang="en">castle</dc:subject>
+<dc:description xml:lang="it">L'edificio è formato da un primo nucleo, posto a destra della torre, eretto nella seconda metà del XIII secolo, e da un secondo nucleo posto a sinistra della torre e aggiunto tra la fine del XIII e l'inizio del XIV secolo. Al 1516 circa risale la costruzione dello scalone che permette l'accesso ai piani superiori, tradizionalmente attribuito a Jacopo di Baldassarre Turriani. Il castello è isolato nella parte più alta del paese; posto in cima ad un poggio al centro della valle, risulta visibile da quasi tutto il Casentino. Poichè la funzione militare della rocca era svolta dalle tre cinte di mura (di cui oggi si conserva solo la prima che delimitava il fossato nella parte interna) e dato anche il momento tardo della sua edificazione, il castello presenta caratteri stilistici e tipologici di ascendenza urbana. Risulta essere il primo esempio di dicotomia architettonica tra funzioni militari e funzioni residenziali all'interno di uno stesso complesso fortificato, esempio che avrà la sua manifestazione maggiore nel Forte di Belvedere a Firenze. L'elemento preminente della prima cinta muraria è sicuramente la "Munizione", ovvero la torretta di guardia con accesso in corrispondenza del ponte levatoio, oggi sostituito da un ponte in muratura. Il castello presenta molti elementi tipici della dimora signorile urbana quali ampie aperture ritmicamente disposte, quasi assoluta mancanza di apparati bellici e vaste pareti continue; sul fronte principale denuncia i due momenti costruttivi, al centro si erge la grande torre campanaria, sporgente per metà della sua profondità dalla linea di facciata (la torre era originariamente posta in angolo, sull'esempio del palazzo del Bargello a Firenze). Alla sua sinistra sono presenti due piani con finestre bifore, a destra invece un solo piano, anch'esso con finestre bifore; negli altri fronti troviamo aperture monofore con arco a sesto ribassato. La copertura è a quattro falde convergenti verso il cortile. L'arredamento è composto da vari dipinti, mobili, camini e sculture, fra cui un tavolo in pietra a piano terra; numerosi sono gli stemmi e le lapidi presenti sulle pareti sia interne che esterne, lasciati per la maggior parte dai Vicari e dai Commissari fiorentini a ricordo della loro magistratura. A livello del primo piano, nella parte sinistra, si conserva il caratteristico motivo delle terrazze su mensole e candele di legno. Sullo stesso piano ci sono i saloni occupati dalla biblioteca, coperti da soffitti lignei, al secondo piano invece si conservano la cappella e altri ambienti non utilizzati. L'ala destra accoglie a primo piano gli uffici del comune, al secondo piano il salone principale adibito a sala del consiglio, con decorazioni ad affresco ottocentesche. L'edificio possiede anche strutture sotterranee quali la cisterna e vari ambienti adibiti a cantine. Il castello, per le vicende storiche che nei secoli si sono svolte nelle sue vicinanze, è citato anche nelle "Cronache" del Villani e del Compagni, e nella "Storia" del Varchi. Fra il 1892 e il 1895 si eseguono diversi lavori di restauro, con l'intento di ripristinare la linea originale del monumento e rimediare ai danni causati dalla lunga incuria; in particolare sono state ricostruite le bifore del fronte principale, in pietra, su modello delle originali assai consunte.</dc:description>
+<dc:publisher mp:ref="https://dati.beniculturali.it/lodview-arco/resource/Agent/050ae5d29fc291b682bcf51f1250ca75.html">Istituto Centrale per il Catalogo e la Documentazione</dc:publisher>
+<dc:coverage xsi:type="dcterms:TGN" mp:ref="http://vocab.getty.edu/page/tgn/7006109">Poppi (AR)</dc:coverage>
+<dc:date xml:lang="it">XIII secolo - XIV secolo</dc:date>
+<dc:date>1516</dc:date>
+<dc:date>1892-1895</dc:date>
+<dc:type xml:lang="it" >castello</dc:type>
+<dc:type xsi:type="dcterms:AAT" mp:ref="http://vocab.getty.edu/page/aat/300006891" xml:lang="en">castle</dc:type>
+<dc:identifier xsi:type="dcterms:URI">https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0900085516</dc:identifier>
+<dc:identifier>0900085516</dc:identifier>
+<dc:format xml:lang="it">Architettura</dc:format>
+<dc:language xml:lang="it">ita</dc:language>
+<dc:source xsi:type="dcterms:URI">https://dati.beniculturali.it/lodview-arco/resource/CatalogueRecordA/0900085516.html</dc:source>
+<dc:source xsi:type="dcterms:URI">https://dati.beniculturali.it/lodview-arco/resource/ArchitecturalOrLandscapeHeritage/0900085516.html</dc:source>
+<dc:rights xml:lang="it">proprietà Ente pubblico territoriale</dc:rights>
+<dc:rights>CC-BY 4.0</dc:rights>
+<dc:rights>https://creativecommons.org/licenses/by/4.0/it/legalcode</dc:rights>
+</mp:metadata>

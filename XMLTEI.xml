@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Il castello medievale dei conti Guidi oggi Palazzo Pretorio di Poppi : la sua storia, il suo stato antico e presente, la prima parte del suo restauro</title>
+				<author xml:id="FP">Pagnini, Francesco</author>
+				<respStmt>
+					<resp>Compiled by</resp>
+					<name xml:id="LR">Leonardo Rossi</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>URL "Il Castello di Poppi"</p>
+			</publicationStmt>
+			<sourceDesc>
+				<title>Il castello medievale dei conti Guidi oggi Palazzo Pretorio di Poppi : la sua storia, il suo stato antico e presente, la prima parte del suo restauro</title>
+				<author>Francesco Pagnini</author>
+				<publisher>Stab. tip. cooperativo operaio</publisher>
+				<pubPlace>Arezzo</pubPlace>
+				<date>1896</date>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			[eventuali dati in avantesto]
+			<div type="tipologia">
+				<p/>
+			</div>
+		</front>
+		<body> [contenuto del documento. Struttura: p, div, l/lg] </body>
+		<back>
+			[eventuale materiale annesso]
+			<div type="tipologia">
+				<p/>
+			</div>
+		</back>
+	</text>
+</TEI>
